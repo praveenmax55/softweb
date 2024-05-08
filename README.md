@@ -836,7 +836,7 @@ contact.html
 
 
 ## OUTPUT:
-![EX7 out1](https://github.com/praveenmax55/softweb/assets/113497509/eda1e897-dff7-4e9e-b6a6-a3394fbb06v6b)
+![EX7 out1](https://github.com/praveenmax55/softweb/assets/113497509/34e783ba-ba14-4f62-af23-a5b42b77b3e1)
 ![EX7 out2](https://github.com/praveenmax55/softweb/assets/113497509/30e94970-5f84-4c0e-915f-dacce23ce5c8)
 ![EX7 out3](https://github.com/praveenmax55/softweb/assets/113497509/fea1c33d-e79d-48bd-afff-cd6b2fa8502e)
 ![EX7 out4](https://github.com/praveenmax55/softweb/assets/113497509/079d9581-f4e7-414f-ab76-fe4fe0debb0d)
